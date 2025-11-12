@@ -1,0 +1,6 @@
+﻿out/
+*.class
+.idea/
+*.iml
+.vscode/
+Thumbs.db
